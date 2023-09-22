@@ -41,7 +41,7 @@ Set-Location "$workingDirOverride"
 
 $computer = $env:COMPUTERNAME
 
-$packageSourcePath = "\\jmpist01094p01\Data\Scripting\Khoa - Finished Scripts\CARTS+ Title Generator\Latest Version"
+$packageSourcePath = "\\REDACTED\Data\Scripting\Khoa - Finished Scripts\CARTS+ Title Generator\Latest Version"
 $localPath = "C:\temp\CARTS+ Title Generator"
 
 Remove-Item -Recurse -Force -Path $localPath
