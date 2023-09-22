@@ -1,0 +1,36 @@
+Card Printer - CD800M
+Card Printer - CD800S
+Chromebase
+Chromebook
+Chromebox
+Conference Room
+Desktop
+HDTV
+Hearing Aid PC/Thin Client
+Hearing Aid Printer
+iPad
+Laptop
+Laptop Docking Station
+Line Buster Printer
+Membership Camera
+Network Switch
+Optical PC/Thin Client
+Optical Printer
+Other
+Pharmacy Fujitsu Page Scanner
+Pharmacy Printer
+Pharmacy Thin Client
+Pharmacy Workflow (PWF) PC
+Power Outage
+Printer (HP)
+Printer (Lexmark)
+RF Handheld Scanner
+RF Wearable Scanner
+Scale
+Smart Pallet
+Telephone - Single Device - Corporate
+Thermal Label Printer
+Thin Client
+Toughpad
+UPS
+Wired/Wireless Headsets
