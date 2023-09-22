@@ -83,8 +83,8 @@ foreach ($item in $issuesSW.Keys) {
 }
 
 #Pull names of software folders from packagesource for PC/Thin Client software issues
-$packagesourcePath = "\\nascfs01094p01.corp.costco.com\PRD_SMSPackageSource"
-$hacPath = "\\nascfs01094p01.corp.costco.com\PRD_SMSPackageSource\Hearing_Aid"
+$packagesourcePath = "\\REDACTED\PRD_SMSPackageSource"
+$hacPath = "\\REDACTED\PRD_SMSPackageSource\Hearing_Aid"
 $packagesourceArray = Get-ChildItem $packagesourcePath -Directory | Where Name -inotmatch 'test' | Where Name -inotmatch 'temp' | Select Name
 $hacArray = Get-ChildItem $hacPath -Directory | Where Name -inotmatch 'archive' | Where Name -inotmatch 'test' | Where Name -inotmatch 'temp' | Select Name
 [array]$phmArray = Get-Content -Path "$PSScriptRoot\phmSW.txt"
